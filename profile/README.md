@@ -18,6 +18,7 @@ We’re a small group of people building side projects for fun.
         <img src="https://avatars.githubusercontent.com/u/32592965?v=4&amp;s=160" width="88" height="88" alt="DPS0340 avatar" /><br />
         <strong>DPS0340</strong>
       </a>
+      <br /><sub>CTO</sub>
     </td>
     <td align="center">
       <a href="https://github.com/mytrashcan">
@@ -30,6 +31,7 @@ We’re a small group of people building side projects for fun.
         <img src="https://avatars.githubusercontent.com/u/49639053?v=4&amp;s=160" width="88" height="88" alt="parkmison avatar" /><br />
         <strong>parkmison</strong>
       </a>
+      <br /><sub>PM</sub>
     </td>
   </tr>
 </table>
