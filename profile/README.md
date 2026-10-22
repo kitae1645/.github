@@ -18,13 +18,14 @@ We’re a small group of people building side projects for fun.
         <img src="https://avatars.githubusercontent.com/u/32592965?v=4&amp;s=160" width="88" height="88" alt="DPS0340 avatar" /><br />
         <strong>DPS0340</strong>
       </a>
-      <br /><sub>CTO</sub>
+      <br /><sub>DevOps</sub>
     </td>
     <td align="center">
       <a href="https://github.com/mytrashcan">
         <img src="https://avatars.githubusercontent.com/u/46117865?v=4&amp;s=160" width="88" height="88" alt="mytrashcan avatar" /><br />
         <strong>mytrashcan</strong>
       </a>
+      <br /><sub>TL</sub>
     </td>
     <td align="center">
       <a href="https://github.com/parkmison">
