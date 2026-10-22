@@ -2,53 +2,53 @@
 
 # kitae1645
 
-**각자 하고 싶은 걸, 같이 만들어봅니다.**
+**Things we want to build. Built together.**
 
-게임부터 일상에 필요한 작은 도구까지.<br />
-개인끼리 모여 취미로 프로젝트를 만드는 공간입니다.
+From games to little tools for everyday life.<br />
+We’re a small group of people building side projects for fun.
 
 </div>
 
-## 함께 만드는 사람들
+## The people behind the projects
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/DPS0340">
-        <img src="https://avatars.githubusercontent.com/u/32592965?v=4&amp;s=160" width="88" height="88" alt="DPS0340 프로필 사진" /><br />
+        <img src="https://avatars.githubusercontent.com/u/32592965?v=4&amp;s=160" width="88" height="88" alt="DPS0340 avatar" /><br />
         <strong>DPS0340</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mytrashcan">
-        <img src="https://avatars.githubusercontent.com/u/46117865?v=4&amp;s=160" width="88" height="88" alt="mytrashcan 프로필 사진" /><br />
+        <img src="https://avatars.githubusercontent.com/u/46117865?v=4&amp;s=160" width="88" height="88" alt="mytrashcan avatar" /><br />
         <strong>mytrashcan</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/parkmison">
-        <img src="https://avatars.githubusercontent.com/u/49639053?v=4&amp;s=160" width="88" height="88" alt="parkmison 프로필 사진" /><br />
+        <img src="https://avatars.githubusercontent.com/u/49639053?v=4&amp;s=160" width="88" height="88" alt="parkmison avatar" /><br />
         <strong>parkmison</strong>
       </a>
     </td>
   </tr>
 </table>
 
-## 이런 걸 만들고 있어요
+## What we’re working on
 
-관심 있는 주제를 하나씩 프로젝트로 옮겨보고 있습니다.
-아래 프로젝트의 소스 코드는 비공개입니다.
+A few things we’ve been turning from ideas into projects.
+The source code for these projects is private.
 
-| 프로젝트 | 소개 |
+| Project | About |
 | --- | --- |
-| **brawl_kr** | 브롤스타즈 한국 랭킹과 메타를 살펴보는 통계 도구 및 Discord 봇 |
-| **tagVault** | 태그를 조합해 이미지를 모으고 개인 갤러리에서 살펴보는 도구 |
-| **roamwindow** | 솅겐 지역의 90/180일 체류 규칙에 맞춰 여행 기록과 일정을 관리하는 도구 |
-| **nara-bid-predictor** | 나라장터 입찰 예측 서비스 |
-| **mafia42_test** | 마피아42 게임 내 확성기 메시지를 보여주는 웹사이트 |
+| **brawl_kr** | A Brawl Stars stats tracker and Discord bot for Korean rankings and meta analysis. |
+| **tagVault** | An image collector with tag-based filtering and a private gallery. |
+| **roamwindow** | A travel ledger and planner for the Schengen 90/180-day rule. |
+| **nara-bid-predictor** | A bid prediction service for Korea’s public procurement platform, Nara Marketplace. |
+| **mafia42_test** | A live website displaying in-game loudspeaker messages from Mafia42. |
 
 ---
 
 <div align="center">
-작게 시작해서, 하나씩 만들어가는 중.
+Starting small. Making things along the way.
 </div>

@@ -1,11 +1,11 @@
-# kitae1645 조직 프로필
+# kitae1645 organization profile
 
-조직 메인 화면에 표시되는 소개는 [`profile/README.md`](profile/README.md)에서 관리합니다.
+The introduction shown on our organization’s home page lives in [`profile/README.md`](profile/README.md).
 
-## 소개 수정하기
+## Updating the profile
 
-- 멤버 소개: 프로필 사진, GitHub 링크, 닉네임을 수정합니다. 새로운 멤버를 소개할 때는 당사자에게 공개할 내용을 확인합니다.
-- 프로젝트 소개: 공개해도 되는 이름과 짧은 설명만 적습니다. 비공개 저장소 링크, 내부 문서, 실행 환경 정보는 넣지 않습니다.
-- 수정한 내용을 기본 브랜치에 반영하면 조직 프로필에 표시됩니다.
+- **Members:** update avatars, GitHub links, and handles. Check with new members before adding their information to the public profile.
+- **Projects:** include only names and short descriptions that can be shared publicly. Keep private repository links, internal documents, and infrastructure details out of this repository.
+- Changes on the default branch appear on the organization profile.
 
-개인 소개를 추가하고 싶다면 해당 멤버가 직접 문구를 작성해 PR로 제안할 수 있습니다.
+Members can submit a pull request with a short introduction in their own words.
