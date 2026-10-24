@@ -53,5 +53,35 @@ The source code for these projects is private.
 
 ---
 
+## A little activity, a lot of side projects
+
+Our contributions across GitHub, beyond this team.<br />
+These cards show contributions and streaks, not a team-only commit count.
+
+<p>
+  <a href="https://github.com/DPS0340"><strong>DPS0340 · DevOps</strong></a><br />
+  <a href="https://github.com/DPS0340">
+    <img src="https://streak-stats.demolab.com/?user=DPS0340&amp;theme=github-dark-blue&amp;hide_border=true&amp;disable_animations=true" width="480" alt="DPS0340: total GitHub contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/mytrashcan"><strong>mytrashcan · TL</strong></a><br />
+  <a href="https://github.com/mytrashcan">
+    <img src="https://streak-stats.demolab.com/?user=mytrashcan&amp;theme=github-dark-blue&amp;hide_border=true&amp;disable_animations=true" width="480" alt="mytrashcan: total GitHub contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/parkmison"><strong>parkmison · PM</strong></a><br />
+  <a href="https://github.com/parkmison">
+    <img src="https://streak-stats.demolab.com/?user=parkmison&amp;theme=github-dark-blue&amp;hide_border=true&amp;disable_animations=true" width="480" alt="parkmison: total GitHub contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+<sub>Activity cards by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>.</sub>
+
+---
+
 Starting small. Making things along the way.
 </div>
