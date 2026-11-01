@@ -48,6 +48,7 @@ The source code for these projects is private.
     <tr><td align="center"><strong>roamwindow</strong></td><td align="center">A travel ledger and planner for the Schengen 90/180-day rule.</td></tr>
     <tr><td align="center"><strong>nara-bid-predictor</strong></td><td align="center">A bid prediction service for Korea’s public procurement platform, Nara Marketplace.</td></tr>
     <tr><td align="center"><strong>mafia42_test</strong></td><td align="center">A live website displaying in-game loudspeaker messages from Mafia42.</td></tr>
+    <tr><td align="center"><strong>maple_megaphone</strong></td><td align="center">A real-time web dashboard for MapleStory Classic World megaphone messages, with message capture and item parsing.</td></tr>
   </tbody>
 </table>
 
